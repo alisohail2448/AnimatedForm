@@ -95,6 +95,10 @@ p {
   }
   h2 {
     font-size: 2em;
+    opacity: 0;
+    position: absolute;
+    text-align: center;
+    width: 100%;
   }
   h1 {
     font-size: 1.5em;
